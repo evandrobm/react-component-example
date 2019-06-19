@@ -20,10 +20,11 @@
     "@babel/core": "^7.4.5",
     "@babel/preset-env": "^7.4.5",
     "@babel/preset-react": "^7.0.0",
+    "babel-preset-es2015-rollup": "^3.0.0",
     "react": "^16.8.6",
     "rollup": "^1.15.6",
     "rollup-plugin-babel": "^4.3.2",
-    "rollup-plugin-uglify": "^6.0.2"
+    "rollup-plugin-terser": "^5.0.0"
   },
   "peerDependencies": {
     "react": "^16.8.6"
