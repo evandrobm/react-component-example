@@ -1,0 +1,17 @@
+{
+  "name": "component-example",
+  "version": "1.0.0",
+  "description": "Example component in React",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "albatross"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "react": "^16.8.6"
+  }
+}
